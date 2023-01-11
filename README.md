@@ -3,6 +3,8 @@
 
 - 📫 How to reach me: **piyawan.norpalm@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAFVOgwYCds/QRuM1M7VpYEhXP0fuTkgsA/edit](https://www.canva.com/design/DAFVOgwYCds/QRuM1M7VpYEhXP0fuTkgsA/edit)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyawan norpalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyawan norpalm" height="30" width="40" /></a>
